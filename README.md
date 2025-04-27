@@ -3,7 +3,7 @@
 Este projeto é uma aplicação prática de Machine Learning utilizando o conjunto de dados SONAR, que contém ecos de sinais sonar para identificar se um objeto é uma rocha ou uma mina submarina.
 
 📂 Sobre o Projeto
-[Projeto] (Rock_vs_Mine_Prediction_ipynb.ipynb)
+
 [Projeto](Rock_vs_Mine_Prediction_ipynb.ipynb)
 
 Objetivo: Criar um modelo capaz de prever se o objeto detectado é uma rocha ou uma mina baseado nas leituras de sinais sonar.
